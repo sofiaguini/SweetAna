@@ -30,6 +30,16 @@ O projeto foi desenvolvido em Python com Streamlit e tem como objetivo funcionar
 - `imagens/`: imagens das receitas e preparos
 - `lista_compras.json`: armazenamento da lista de compras
 - `requirements.txt`: dependências do projeto
+- `render.yaml`: configuração de publicação no Render
+- `documentacao/artigo/`: artigo e relatório acadêmico
+- `documentacao/defesa/`: guia pessoal para estudo e apresentação
+- `documentacao/apresentacao/`: poster final e template da mostra
+- `documentacao/requisitos/`: enunciado da atividade A3
+- `documentacao/referencias/`: modelo de artigo usado como referência
+- `materiais_originais/`: arquivos de origem preservados, como o ZIP inicial de imagens
+- `para_descartar_revisar/`: arquivos antigos/cache mantidos localmente para revisão; não são enviados ao Git
+
+Os módulos Python e a pasta `imagens/` permanecem na raiz porque a aplicação usa esses caminhos diretamente.
 
 ## Como executar localmente
 
